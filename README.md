@@ -14,8 +14,7 @@ The **Student Grade Manager** is a C++ program that allows educators or administ
 
 ## Requirements
 
-- **C++ Compiler** (e.g., GCC, MSVC)
-- C++11 or later for smart pointer support (`std::unique_ptr`)
+- **C++ Compiler** 
 - Standard C++ libraries: `iostream`, `fstream`, `iomanip`, `string`, `vector`, `memory`, `cstdlib`, and `ctime`.
 
 ## Setup
@@ -24,3 +23,10 @@ The **Student Grade Manager** is a C++ program that allows educators or administ
 
 ```bash
 git clone https://your-repository-url.git
+File Format
+The student data is saved in a binary file named students.dat. The data is structured as follows:
+
+Student ID (int)
+Student Name (string)
+Grades (array of double for each subject)
+Average Grade (double)
