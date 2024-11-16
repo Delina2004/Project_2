@@ -63,6 +63,14 @@ The **Student Grade Manager** is a C++ application designed to manage and analyz
 ---
 
 
+Screenshot on How to Use
+
+![Screenshot 2024-11-16 095832](https://github.com/user-attachments/assets/07d65704-6e43-4117-aca9-92b8528ec425)
+
+Link to my presentation video 
+
+https://drive.google.com/file/d/1qvTYHeNIe1kz0NYCGkRtifi_srgnmk3Y/view?usp=sharing
+
 License
 
 This project is open-source and free to use for educational purposes.
@@ -71,14 +79,6 @@ Developed by Delina Yemane.
 
 For questions or feedback about the project, feel free to contact:  
 Email: delinayemane2004@gmail.com
-
-Screenshot on How to Use
-
-![Screenshot 2024-11-16 095832](https://github.com/user-attachments/assets/07d65704-6e43-4117-aca9-92b8528ec425)
-
-Link to my presentation video 
-
-https://drive.google.com/file/d/1qvTYHeNIe1kz0NYCGkRtifi_srgnmk3Y/view?usp=sharing
 
 
 
