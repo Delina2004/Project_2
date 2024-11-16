@@ -62,12 +62,6 @@ The **Student Grade Manager** is a C++ application designed to manage and analyz
 
 ---
 
-## Instructions
-
-### Compilation
-To compile the project, use a command like:
-```bash
-g++ -std=c++11 main.cpp StudentGradeManager.cpp -o StudentGradeManager
 
 License
 
