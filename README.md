@@ -1,4 +1,9 @@
 # README: Student Grade Manager
+## Author
+
+**Delina Yemane**  
+Undergraduate Computer Science Student  
+
 
 ---
 
@@ -45,8 +50,7 @@ The **Student Grade Manager** is a C++ application designed to manage and analyz
 ## Requirements
 
 ### Tools
-- **Compiler:** Any C++ compiler supporting C++11 or later (e.g., GCC, Clang, MSVC).  
-- **Build Tool:** Optional (e.g., `make`).
+- **Compiler:** Any C++ compiler supporting C++11.  
 
 ### Libraries
 - Standard C++ libraries, including:
@@ -64,3 +68,16 @@ The **Student Grade Manager** is a C++ application designed to manage and analyz
 To compile the project, use a command like:
 ```bash
 g++ -std=c++11 main.cpp StudentGradeManager.cpp -o StudentGradeManager
+
+License
+
+This project is open-source and free to use for educational purposes.
+
+Developed by Delina Yemane.
+
+For questions or feedback about the project, feel free to contact:  
+Email: delinayemane2004@gmail.com
+
+Screenshot on How to Use
+
+
