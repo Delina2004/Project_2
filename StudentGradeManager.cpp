@@ -27,7 +27,7 @@ void inputStudentDetails(vector<unique_ptr<Student>>& students) {
 
     for (int i = 0; i < static_cast<int>(Subject::COUNT); i++) {
         cout << "Enter grade for " << static_cast<Subject>(i) << ": ";
-        cin >> student->grades[i+1];
+        cin >> student->grades[i];
     }
 
     student->calculateAverageGrade();
