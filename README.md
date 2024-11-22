@@ -47,7 +47,7 @@ The **Student Grade Manager** is a C++ application designed to manage and analyz
 
 ---
 
-## Requirements
+## Requirement
 
 ### Tools
 - **Compiler:** Any C++ compiler supporting C++11.  
@@ -63,7 +63,7 @@ The **Student Grade Manager** is a C++ application designed to manage and analyz
 ---
 
 
-Screenshot on How to Use
+Screenshot on how to Use
 
 ![Screenshot 2024-11-16 095832](https://github.com/user-attachments/assets/07d65704-6e43-4117-aca9-92b8528ec425)
 
