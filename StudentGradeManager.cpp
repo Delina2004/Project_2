@@ -11,7 +11,7 @@ void Student::calculateAverageGrade() {
 
 // Function to generate a random student ID
 int generateRandomID() {
-    return rand() % 90000 + 10000; // IDs between 10000 and 99999
+    return rand() % 90000 + 10000; // To get IDs between 10000 and 99999
 }
 
 // Function to input student details and grades
