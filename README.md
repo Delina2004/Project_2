@@ -75,7 +75,7 @@ License
 
 This project is open-source and free to use for educational purposes.
 
-Developed by Delina Yemane.
+Developed by Delina Merhay.
 
 For questions or feedback about the project, feel free to contact:  
 Email: delinayemane2004@gmail.com
