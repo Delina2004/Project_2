@@ -28,7 +28,7 @@ The **Student Grade Manager** is a C++ application designed to manage and analyz
    Save all student records to a binary file for persistent storage.
 
 5. **Exit**  
-   Exit the program safely after performing desired operations.
+   Exit the program safely after performing operations.
 
 ---
 
